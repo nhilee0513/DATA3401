@@ -1,0 +1,5 @@
+carname,year,mpg,cyl,disp,hp,drat,wt,qsec,vs,am,gear,carb,author,team
+Maserati Quattroporte II,1974,17,8,259,523,3.09,4,21.5,0,1,5,4,Nhi Le,B
+Lexus LS 500 F ,2018,18,6,345.5,416,2.76,4.905,13.4,0,0,8,2,Nhi Le,B
+Honda CRV,2016,28,4,102.9,190,2.64,3.358,15.1,0,0,5,2,Nhi Le,B
+Audi A8,2020,19,8,244,333,3.2,4.464,13.9,0,0,8,2,Nhi Le,B
